@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# C / compiled
+*.o
+*.out
+*.a
+*.so
+*.exe
+a.out
+
+# Java
+*.class
+*.jar
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
